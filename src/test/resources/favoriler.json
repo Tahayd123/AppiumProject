@@ -1,0 +1,22 @@
+[
+  {
+    "key": "favoriyeEkleButonu",
+    "androidValue": "(//android.widget.CheckBox[@content-desc=\"favoriye ekle\"])[1]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "listelerimbutonu",
+    "androidValue":"//android.widget.FrameLayout[@content-desc=\"Listelerim\"]/android.widget.FrameLayout/android.widget.ImageView",
+    "androidType": "xpath"
+  },
+  {
+    "key": "begendiklerimListesi",
+    "androidValue":"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[7]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "begendiklerimListesindekiUrun",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[1]/android.webkit.WebView/android.webkit.WebView/android.view.View/android.widget.ListView/android.view.View",
+    "androidType":"xpath"
+  }
+]

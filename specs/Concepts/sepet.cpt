@@ -1,0 +1,7 @@
+# Hepsiburada Uygulamasında Sepete Urun eklenir 
+
+* "sepeteeklebutonu" xpath'li elemente tikla
+* "sepetimButonu" xpath'li elemente tikla
+* "sepettekiUrun" li elementin oldugu kontrol edilir
+* "alısverisiTamamlaButonu" xpath'li elemente tikla
+* "siparisiOnaylaButonu" id'li elemente tikla

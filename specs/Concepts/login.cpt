@@ -1,0 +1,7 @@
+# Hepsiburada Uygulamasında Login Olunur
+
+  * "girisYapButtonu" xpath'li elemente tikla
+  * "girisYapSifre" id'li elemente "Qwe12345" text degerini gonder
+  * "sifredenSonraGirisYapButtonu" xpath'li elemente tikla
+  * "hosgeldinizPopUpKontrolu" li elementin oldugu kontrol edilir
+  * "hosgeldinizPopUpTamamButton" id'li elemente tikla

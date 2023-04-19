@@ -1,0 +1,7 @@
+# Hepsiburada Uygulamasında Register Olunur
+
+* "HesabımButonu" id'li elemente tikla
+* "UyeOlButton" xpath'li elemente tikla
+* "uyelikMailAdresi" id'li elemente "tahaydurmaz@gmail.com" text degerini gonder
+* "UyelikDevamEt" id'li elemente tikla
+* "DogrulamaMailiKontrolu" li elementin oldugu kontrol edilir

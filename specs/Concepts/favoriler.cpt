@@ -1,0 +1,6 @@
+# Hepsiburada Uygulamasında Ürün Favoriye Eklenir
+
+* "favoriyeEkleButonu" xpath'li elemente tikla
+* "listelerimbutonu" xpath'li elemente tikla
+* "begendiklerimListesi" xpath'li elemente tikla
+* "begendiklerimListesindekiUrun" li elementin oldugu kontrol edilir

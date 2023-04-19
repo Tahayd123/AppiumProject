@@ -1,0 +1,10 @@
+# Hepsiburada Uygulamasında Urun Secimi Yapılır
+
+* "SearchBox" id'li elemente "saat" text degerini gonder
+* "arananEsyaButonu" xpath'li elemente tikla
+* "filtreleButonu" id'li elemente tikla
+* "cinsiyet" xpath'li elemente tikla
+* "erkekCheckbox" xpath'li elemente tikla
+* "filtreUygulaButonu" id'li elemente tikla
+* "filreUrunleriGorButonu" xpath'li elemente tikla
+* "urunAciklamasi" id'li element "erkek" text değerini içerdiğini kontrol et

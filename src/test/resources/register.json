@@ -1,0 +1,33 @@
+[
+  {
+
+  },
+  {
+    "key": "HesabımButonu",
+    "androidVlue": "com.pozitron.hepsiburada:id/account_menu_button",
+    "androidType": "id"
+  },
+  {
+    "key": "UyeOlButton",
+    "androidValue": "//android.view.ViewGroup[@content-desc=\"account_menu_button_0\"]/android.view.ViewGroup/android.widget.Button",
+    "androidType": "xpath"
+  },
+  {
+    "key": "uyelikMailAdresi",
+    "androidValue":"txtUserName",
+    "androidType": "id"
+  },
+  {
+    "key": "UyelikDevamEt",
+    "androidValue":"btnSignUpSubmit",
+    "androidType":"id",
+  },
+  {
+    "key":"DogrulamaMailiKontrolu",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[1]/android.view.View[4]",
+    "androidType": "xpath"
+  }
+
+
+
+]
